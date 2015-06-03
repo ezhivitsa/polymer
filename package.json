@@ -1,0 +1,8 @@
+{
+	"name": "polymer",
+	"version": "0.0.1",
+	"devDependencies": {
+		"grunt": "latest",
+		"grunt-vulcanize": "latest"
+	}
+}
